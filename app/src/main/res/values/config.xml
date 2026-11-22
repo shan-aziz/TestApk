@@ -3,7 +3,7 @@
     <!-- ✏️ CHANGE THESE -->
 
     <!-- The website the app opens. Must start with https:// -->
-    <string name="https://watch.plex.tv" translatable="false">https://example.com</string>
+    <string name="start_url" translatable="false">https://watch.plex.tv</string>
 
     <!-- The name shown under the app on the Fire TV home screen -->
     <string name="app_name">My TV App</string>
