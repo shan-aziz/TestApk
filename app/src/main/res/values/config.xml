@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ✏️ CHANGE THESE -->
+
+    <!-- The website the app opens. Must start with https:// -->
+    <string name="start_url" translatable="false">https://example.com</string>
+
+    <!-- The name shown under the app on the Fire TV home screen -->
+    <string name="app_name">My TV App</string>
+
+    <!-- true  = start with the on-screen pointer (works with any website)
+         false = start with the pointer off (use this if your site already handles arrow keys) -->
+    <bool name="start_in_pointer_mode">true</bool>
+</resources>
